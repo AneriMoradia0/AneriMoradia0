@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋  
 
-<!--
-**AneriMoradia0/AneriMoradia0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Open Source Contributor | Tech Enthusiast  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+🔹 Passionate about building scalable applications and contributing to open source.  
+🔹 Experienced in [Your Tech Stack, e.g., JavaScript, Python, React, etc.].  
+🔹 Always learning and exploring new technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+_(Add more based on your expertise.)_  
+
+### 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+
+🔗 **Find me on:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/aneri-moradia-myleo/]))
